@@ -6,6 +6,8 @@ public class GitTEST {
 		System.out.println("Nanjing.China");
 		System.out.println("Git test.");
 		
+		System.out.println("Git manipulation at Cmd.");
+		
 	}
 
 }
