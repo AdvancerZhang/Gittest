@@ -3,5 +3,8 @@ public class GitTEST {
 		System.out.println("Hangzhou,I'm coming.");
 		System.out.println("Last Version.");
 		System.out.println("Git test indeed.");
+		
+		System.out.println("Current branch:dev");
+		
 	}
 }
